@@ -4,7 +4,7 @@ Currently, I'm a Ph.D student working on computational materials science in the 
 - [Linker SMILES Extractor (LSE)](https://github.com/Ramprasad-Group/LSE): Linker SMILES Extractor is a codebase that allows a user to return the SMILES (simplified molecular-input line-entry system) strings of an input Metal Organic Framework’s constituent linkers.
 
 #### More about me
-You can find out more about me and keep up with my work at my [website](https://rishigurnani.wordpress.com/), [LinkedIn](https://www.linkedin.com/in/rishi-gurnani/), and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57191292924).
+You can learn more about me and keep up with my work at my [website](https://rishigurnani.wordpress.com/), [LinkedIn](https://www.linkedin.com/in/rishi-gurnani/), and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=57191292924).
 
 <!--
 **rishigurnani/rishigurnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

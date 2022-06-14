@@ -1,6 +1,7 @@
 ### Hi there, I'm Rishi 👋
 
 Currently, I'm a Ph.D student working on computational materials science in the [Ramprasad Group](https://ramprasad.mse.gatech.edu/dr-ramprasad/) at Georgia Tech. My open source work is split between my personal GitHub profile and the [Ramprasad Group's GitHub profile](https://github.com/Ramprasad-Group). Some of my contributions in the latter profile include:
+- [polyGNN](https://github.com/Ramprasad-Group/polygnn): polyGNN is a codebase that contains the code and environment used to train the graph neural networks presented in a companion paper, *polyGNN: Multitask graph neural networks for polymer informatics*.
 - [Linker SMILES Extractor (LSE)](https://github.com/Ramprasad-Group/LSE): Linker SMILES Extractor is a codebase that allows a user to return the SMILES (simplified molecular-input line-entry system) strings of an input Metal Organic Framework’s constituent linkers.
 
 #### More about me

@@ -5,7 +5,7 @@ Currently, I develop flavor systems at Coca-Cola using AI. Formerly, I was a Ph.
 - [Linker SMILES Extractor (LSE)](https://github.com/Ramprasad-Group/LSE): A codebase that allows a user to return the SMILES (simplified molecular-input line-entry system) strings of an input Metal Organic Framework’s constituent linkers.
 
 #### More about me
-You can learn more about me and keep up with my work at my [website](https://rishigurnani.wordpress.com/), [LinkedIn](https://www.linkedin.com/in/rishi-gurnani/), and [Google Scholar](https://scholar.google.com/citations?hl=en&user=C2Leh-oAAAAJ) profile.
+You can learn more about me and keep up with my work at my [website](https://rishigurnani.github.io/), [LinkedIn](https://www.linkedin.com/in/rishi-gurnani/), and [Google Scholar](https://scholar.google.com/citations?hl=en&user=C2Leh-oAAAAJ) profile.
 
 <!--
 **rishigurnani/rishigurnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
